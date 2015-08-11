@@ -85,4 +85,7 @@
 		</pluginManagement>
 	</build>
 
+	<url>https://github.com/fjtorres/common-parent</url>
+	<name>Common parent project</name>
+	<description>Parent project for all my projects.</description>
 </project>
